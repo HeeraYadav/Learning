@@ -30,3 +30,23 @@
 1. Create a new MVC Project
    ```bash
    dotnet new mvc
+```
+
+# Git Commands
+```
+git add --all
+git commit -m "Created new dot net core Project"
+git push
+git pull
+git branch --- List of branch
+git checkout development --- Switching the branch
+git branch TestDevelopment   ----- For Creating new Branch
+ 
+ 
+git init
+git remote add origin repo_url 
+git add . 
+git commit -m 'Initial commit'
+git pull origin main
+git push origin main
+```
