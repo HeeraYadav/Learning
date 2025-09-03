@@ -30,10 +30,10 @@
 1. Create a new MVC Project
    ```bash
    dotnet new mvc
-```
+    ```
 
 # Git Commands
-```
+```bash
 git add --all
 git commit -m "Created new dot net core Project"
 git push
